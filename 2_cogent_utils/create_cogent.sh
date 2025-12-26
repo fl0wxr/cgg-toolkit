@@ -38,8 +38,6 @@ parse_params() {
     shift
   done
 
-  args=("$@")
-
   return 0
 }
 
